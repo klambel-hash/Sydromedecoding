@@ -2,6 +2,9 @@
 """
 Created on Sat Sep 28 20:48:53 2019
 
+Iwrote this code in 2019 when I was in Senegal. Its aim is to use it for the decodechallenge. 
+I was able to use it for finding solution of small parameters. 
+
 @author: Jean Belo
 """
 #==============================================================
