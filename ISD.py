@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 28 20:48:53 2019
 
-@author: user
+@author: Jean Belo
 """
 #==============================================================
 #                    Importation of library
